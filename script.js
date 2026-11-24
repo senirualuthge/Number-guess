@@ -1,5 +1,3 @@
-"use strict";
-
 const form = document.querySelector("#guess-form");
 const input = document.querySelector("#guess-input");
 const message = document.querySelector("#message");
